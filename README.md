@@ -23,7 +23,7 @@ Remember when Google Photos let you keep everything, forever, as long as you wer
 
 Years of phone backups, exports and copies of copies later, a photo library can easily fill a whole drive. Most of that space goes to quality nobody can see.
 
-**360 Photo Compressor brings that idea back, on your own Mac and your own disks.** Choose a folder, press one button, and every photo and video is replaced by a lighter version that looks the same on any screen.
+**360 Photo Compressor brings that idea back, on your own Mac and your own disks.** Pick a folder or drag it onto the window, press one button, and every photo and video is replaced by a lighter version that looks the same on any screen.
 
 ## Lighter, not worse
 
@@ -44,8 +44,8 @@ Replacing your memories is not something to do lightly, so the program doesn't t
 Every step is written down. If the power goes out, the disk disconnects or you quit halfway, the next launch finishes or rolls back whatever was in progress. Nothing is left half done.
 
 <p align="center">
-  <img src="assets/progress.png" width="400" alt="Progress ring, space freed and the videos being compressed right now">
-  <img src="assets/done.png" width="400" alt="Done: space freed and files compressed">
+  <img src="assets/progress.png" width="400" alt="Space freed so far, progress ring and the videos being compressed right now">
+  <img src="assets/done.png" width="400" alt="Done: space freed in total and files compressed">
 </p>
 
 ## And then, some order
@@ -56,6 +56,7 @@ Files with no date go into their own folder. Identical copies are set aside so y
 
 ## Made for long jobs
 
+- **Always see what you have gained**: a big counter shows how much space the job has freed in total, even across pauses, stops and restarts.
 - **Pause and resume**: quit the app and it picks up exactly where it stopped, even days later.
 - **Works in the background**, with progress always visible in the menu bar.
 - **Follow it from your phone**: scan the QR code shown by the app and watch the progress on your phone, over your home Wi-Fi. It is view only, and the private link changes every time you turn it on.
