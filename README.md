@@ -44,7 +44,7 @@ Replacing your memories is not something to do lightly, so the program doesn't t
 Every step is written down. If the power goes out, the disk disconnects or you quit halfway, the next launch finishes or rolls back whatever was in progress. Nothing is left half done.
 
 <p align="center">
-  <img src="assets/progress.png" width="400" alt="Progress rings, space freed and the videos being compressed right now">
+  <img src="assets/progress.png" width="400" alt="Progress ring, space freed and the videos being compressed right now">
   <img src="assets/done.png" width="400" alt="Done: space freed and files compressed">
 </p>
 
@@ -58,12 +58,17 @@ Files with no date go into their own folder. Identical copies are set aside so y
 
 - **Pause and resume**: quit the app and it picks up exactly where it stopped, even days later.
 - **Works in the background**, with progress always visible in the menu bar.
+- **Follow it from your phone**: scan the QR code shown by the app and watch the progress on your phone, over your home Wi-Fi. It is view only, and the private link changes every time you turn it on.
 - **Amphetamine mode** keeps your Mac awake, and the screen on if you want, for a set time or until the job is done.
 - Works great with network drives and NAS folders.
 
+<p align="center">
+  <img src="assets/phone.png" width="260" alt="The phone view: progress, space freed and the files being compressed">
+</p>
+
 ## Free. Really.
 
-No account. No subscription. No ads. No data leaving your Mac: everything happens locally, using only what macOS already includes.
+No account. No subscription. No ads. No data leaving your Mac: everything happens locally, using only what macOS already includes. The optional phone view stays on your own network.
 
 The interface follows your system: Italian if your Mac is in Italian, English otherwise.
 
