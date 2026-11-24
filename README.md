@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/Mission-F/360-photo-compressor/releases/latest/download/360-Photo-Compressor.dmg"><b>Download for Mac</b></a>
-  <br>Free &nbsp;·&nbsp; macOS 12 or later &nbsp;·&nbsp; Intel and Apple Silicon &nbsp;·&nbsp; about 1 MB
+  <br>Free for personal use &nbsp;·&nbsp; macOS 12 or later &nbsp;·&nbsp; Intel and Apple Silicon &nbsp;·&nbsp; about 1 MB
 </p>
 
 <p align="center">
@@ -109,7 +109,7 @@ We would rather tell you exactly how things are. The same approach has already c
 
 ## License
 
-This program is **free but not open source**: you can download it and use it freely, including for work, under the terms in the [LICENSE](LICENSE) file. It is provided as is, without warranty.
+This program is **free for personal, non-commercial use** and is not open source. Commercial use, by a company or for your professional work, requires a written agreement with 360 Management System: write to supporto@360msystem.it. The full terms are in the [LICENSE](LICENSE) file. The program is provided as is, without warranty.
 
 © 2026 360 Management System. All rights reserved. For any request: supporto@360msystem.it
 
