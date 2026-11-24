@@ -54,7 +54,7 @@ Years of exports usually end up in folders called `Backup 2`, `Photos from 2019 
 
 Files with no date go into their own folder. Identical copies are set aside so you can check them. Nothing is deleted, and **one button puts everything back** where it was.
 
-Turn on **Break up subfolders** and nothing of the old structure is left: files with no date and other files also go straight into their own folder, so the main folder only contains the years and a couple of clearly named folders.
+Turn on **No subfolders** and nothing of the old structure is left: files with no date and other files also go straight into their own folder, so the main folder only contains the years and a couple of clearly named folders.
 
 ## Made for long jobs
 
